@@ -1,2 +1,1 @@
-# TinDog
-Tinder knockoff website
+TinDog Starting Files
